@@ -35,7 +35,7 @@
     </style>
   </head>
   <body>
-    <h1>Hello World </h1>
+    <h1>Hello World</h1>
     <p>Welcome to my very first submission on GitHub!</p>
     <button onclick="changeText()">Click me!</button>
     <p id="message"></p>
